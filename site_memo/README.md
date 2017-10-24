@@ -1,19 +1,13 @@
-##site_memo
+#site_memo
 
-######OpenAI/gym
-https://github.com/openai/gym
+1.OpenAI/gym: https://github.com/openai/gym
 
-######Keras_rl
-https://github.com/matthiasplappert/keras-rl
+2.Keras_rl: https://github.com/matthiasplappert/keras-rl
 
-######Hvass-Labs/TensorFlow-Tutorials
-https://github.com/Hvass-Labs/TensorFlow-Tutorials
+3.Hvass-Labs/TensorFlow-Tutorials: https://github.com/Hvass-Labs/TensorFlow-Tutorials
 
-######deepmind/sonnet
-https://github.com/deepmind/sonnet
+4.deepmind/sonnet: https://github.com/deepmind/sonnet
 
-######tensorforce
-https://github.com/reinforceio/tensorforce
+5.tensorforce: https://github.com/reinforceio/tensorforce
 
-######chainer_rl
-https://github.com/chainer/chainerrl
+6.chainer_rl: https://github.com/chainer/chainerrl
